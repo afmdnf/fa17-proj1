@@ -18,5 +18,8 @@ I passed trainer_path(Trainer.find(params[:tr])) into the redirect_to. It is a p
 In application.html.erb, the last part renders 'layouts/messages' and so when a validation fails, the error message becomes part of @pokemon.errors, which we just convert to a sentence in order to flash it.
 
 # Give us feedback on the project and decal below!
+The project was cool and you guys are awesome! Though I'm not sure why but I feel that I haven't learnt much so far in this class.
+I do not feel confident about being adequately equipped with the necessary skills to create a Rails app from scratch on my own but I guess this issue could probably solved in the next few weeks as we delve deeper into more advanced topics. :)
 
 # Extra credit: Link your Heroku deployed app
+https://shielded-ridge-91164.herokuapp.com/
